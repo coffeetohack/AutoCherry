@@ -1,4 +1,4 @@
-# Automated-Notetaking
+# AutoCherry - Automated Note Taking
 
 ## **Welcome to AutoCherry** :rocket:
 

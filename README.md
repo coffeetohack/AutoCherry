@@ -22,7 +22,7 @@ As of March 6th, 2023, the script cannot do much and hasn't been tested with a l
 :dart:**Future Updates** :dart:\
 I plan to improvise the script even more. I want the script to run for all commands. Further ahead, I am planning to add a screenshot functionality which would take a screenshot of the terminal and can be used as a Proof-of-Concept. Also, I will be adding a functionality where if the script terminates, it will ask the user again if he needs to modify an existing file.
 
-📝:**Feedback Appreciated** 📝:\
+📝**Feedback Appreciated** 📝:\
 I would really like if some gave me a feedback and would help me in improvising the script even more. 
 
 ![1-overlay](https://user-images.githubusercontent.com/43638332/223310226-1b1d59d7-c7f7-4cf0-8e18-9f4d09bf28d0.png)

@@ -3,7 +3,7 @@
 ## **Welcome to AutoCherry** :rocket:
 
 :smile:**Intro** :smile:\
-A little about me. I am Mayank Rahalkar, a recent cybersecurity graduate. I have a deep interest in learning new technolgoies and I plan to build my career in pentesting. This is my first project on GitHub. I just know the basics of coding and most of the work on my GitHub will be from me going around on internet and finding parts of code or even using ChatGPT. I am looking to solve challenges that I am facing in daily life.
+A little about me. I am Mayank Rahalkar, a recent cybersecurity graduate. I have a deep interest in learning new technolgoies and I plan to build my career in pentesting. This is my first project on GitHub. The code is developed by me with a little help from ChatGPT. I am looking to solve challenges that I am facing in daily life.
 
 :tired_face:**Challenge I faced** :tired_face:\
 I used to run a bunch on commands on terminal and there were times when I used to forget noting the results of the commands down in my note taking application Cherry Tree. This happened a lot of times and then I had to scroll up the terminal and find out the result I wanted. I asked a few people some time ago if there was a way in which we could redirect the output to a node in Cherry Tree, but nobody had any answer to it. As I am not a coder, I didn't have the necessary skills to develop something like this. 

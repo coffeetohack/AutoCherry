@@ -14,7 +14,7 @@ Do you sometimes forget to take notes of the commands you have run on the termin
 If your answer is "YES", then you have come at the right place.
 
 :smiley:**What does it do?** :smiley:\
-AutoCherry is a simple python script which is just at the beginning phase of development. The script accepts asks the user to input the file name. This name would be the file name for the CherryTree file. The user will have to enter the full path. The script then asks the user to input the command to run. Upon hitting enter, it asks the user for "node" name. This is the name of the node that will be created in the CherryTree file. Upon hitting enter, the command executes and the result is displayed on the terminal as well it gets saved in the CherryTree node. The script then asks the user if another command needs to be run. If the user enters "Y", the loop continues, else the script terminates.
+AutoCherry is a simple python script which is just at the beginning phase of development. The script accepts asks the user to input the file name. This name would be the file name for the CherryTree file. The user will have to enter the full path. (Example: /root/Desktop/victim.ctd) The script then asks the user to input the command to run. Upon hitting enter, it asks the user for "node" name. This is the name of the node that will be created in the CherryTree file. Upon hitting enter, the command executes and the result is displayed on the terminal as well it gets saved in the CherryTree node. The script then asks the user if another command needs to be run. If the user enters "Y", the loop continues, else the script terminates.
 
 ```Command: python3 autocherry.py```
 

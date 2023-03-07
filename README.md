@@ -1,8 +1,8 @@
 # Automated-Notetaking
 
-## **Welcome to AutoCherry**
+## **Welcome to AutoCherry** :rocket:
 
-**Intro**\
+**Intro**\ 
 A little about me. I am Mayank Rahalkar, a recent cybersecurity graduate. I have a deep interest in learning new technolgoies and I plan to build my career in pentesting. This is my first project on GitHub. I have no coding experience and most of the codes on my GitHub would be generated from ChatGPT. I am looking to solve small problems that I am facing in daily life.
 
 **Challenge I faced**\
